@@ -4,4 +4,3 @@ First AI Model
 i have made the model. but its output is chaos.
 
 I TRAINED IT ON MY DATA AND HITLERS DATA. NOW ITS PREDICTING THAT I AM THE REASON FOR THE HOLOCAUST.
-1
