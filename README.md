@@ -14,3 +14,5 @@ I NEED GOOD WEIGHTS.
 NO PROGRESS TODAY TOO.
 
 Nothing. 
+
+Nothing 2
