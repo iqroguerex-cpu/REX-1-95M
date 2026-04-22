@@ -15,6 +15,4 @@ NO PROGRESS TODAY TOO.
 
 Nothing. 
 
-Nothing 2
-
-Nothing 3
+No work Today
